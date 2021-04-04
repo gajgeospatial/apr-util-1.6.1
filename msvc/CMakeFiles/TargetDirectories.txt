@@ -1,0 +1,7 @@
+C:/Development/op3d_active/apr-util-1.6.1/msvc/CMakeFiles/libaprutil-1.dir
+C:/Development/op3d_active/apr-util-1.6.1/msvc/CMakeFiles/INSTALL.dir
+C:/Development/op3d_active/apr-util-1.6.1/msvc/CMakeFiles/apr_ldap-1.dir
+C:/Development/op3d_active/apr-util-1.6.1/msvc/CMakeFiles/aprutil-1.dir
+C:/Development/op3d_active/apr-util-1.6.1/msvc/CMakeFiles/apr_dbd_odbc-1.dir
+C:/Development/op3d_active/apr-util-1.6.1/msvc/CMakeFiles/ALL_BUILD.dir
+C:/Development/op3d_active/apr-util-1.6.1/msvc/CMakeFiles/ZERO_CHECK.dir
